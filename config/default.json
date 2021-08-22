@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "solom secret key value bla bla bla",
+  "mongoUri": "mongodb+srv://solom:256717Qw__Qw@cluster0.uajec.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://10.10.10.6:5000"
+}
